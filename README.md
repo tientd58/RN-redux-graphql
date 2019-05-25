@@ -11,7 +11,6 @@ Install node modules, [Yarn](https://yarnpkg.com/en/) is highly recommended.
 ```
 Run `yarn`
 ```
-Point backend to `https://vnarp-api.siroapp.com/graphql` for example
 Open and start project using [Expo XDE](https://expo.io/tools) or use the [CLI](https://github.com/expo/expo):
 ```
 Run `expo start`
