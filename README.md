@@ -1,4 +1,4 @@
-## Solar Mobile
+## Redux && Graphql
 ## Technologies
 - [React Native (Expo)](https://docs.expo.io/versions/latest/)
 - [React Navigation](https://reactnavigation.org/)
